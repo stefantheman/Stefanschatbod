@@ -3,7 +3,7 @@ import streamlit as st
 
 client = OpenAI()
 
-st.title("AI Assistant")
+st.title("Stefan's Time Management AI Assistant")
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
