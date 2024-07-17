@@ -1,3 +1,2 @@
 openai
 streamlit
-streamlit_authenticator
